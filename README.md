@@ -8,7 +8,12 @@ A full-stack MERN web application that allows users to view, rate, and manage st
 
 ## 📸 Preview
 
-![Admin Dashboard](./assets/AdminDashboard1.png) <!-- Replace or remove if not available -->
+![Admin Dashboard](./assets/AdminDashboard1.png)
+![Admin Dashboard](./assets/AdminDashboard2.png)
+![Login Page](./assets/LoginPage.png)
+![Register Page](./assets/RegisterPage.png)
+![Store Page](./assets/StorePage.png)
+<!-- Replace or remove if not available -->
 
 ---
 
